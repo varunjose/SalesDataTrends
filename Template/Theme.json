@@ -1,0 +1,20 @@
+﻿{
+  "name": "Performance Dashboard Theme Colors",
+  "dataColors": ["#265476", "#EA582D", "#66676E"],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          { "color": { "solid": { "color": "#265476" } } }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [
+          { "fill": { "solid": { "color": "#265476" } } }
+        ]
+      }
+    }
+  }
+}
